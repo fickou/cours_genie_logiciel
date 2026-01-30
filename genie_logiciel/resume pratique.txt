@@ -1,0 +1,127 @@
+🎯 Diapositive 1 : Pratiques Clés du DevOps
+Titre : ✅ Pratiques et Outils Clés du DevOps (1/2)
+
+Sous-titre : Automatisation – Collaboration – Surveillance continue
+
+🔧 1. Intégration Continue (CI) & Livraison Continue (CD)
+
+Tests automatiques à chaque modification
+
+Déploiement fluide et fréquent
+🛠 Outils : Jenkins, GitLab CI, CircleCI
+
+📜 2. Infrastructure as Code (IaC)
+
+Gestion de l’infrastructure par du code
+
+Traçabilité & Réplicabilité
+🛠 Outils : Terraform, CloudFormation, Ansible
+
+📦 3. Conteneurisation & Orchestration
+
+Portabilité des applications avec Docker
+
+Gestion à grande échelle via Kubernetes
+🛠 Outils : Docker, Kubernetes, OpenShift
+
+Astuce visuelle : Utilisez des icônes de chaque outil + un schéma simple type pipeline CI/CD
+📊 Diapositive 2 : Tests, Monitoring & Configuration
+Titre : ✅ Pratiques et Outils Clés du DevOps (2/2)
+
+🧪 4. Automatisation des tests & des déploiements
+
+Tests unitaires, intégration, fonctionnels
+
+Réduction des erreurs humaines
+🛠 Outils : JUnit, Selenium, SonarQube, ArgoCD
+
+📈 5. Monitoring & Observabilité
+
+Collecte des métriques, alertes en temps réel
+
+Visualisation des performances applicatives
+🛠 Outils : Prometheus, Grafana, ELK Stack, Datadog
+
+⚙️ 6. Gestion de la Configuration
+
+Déploiement cohérent sur tous les environnements
+
+Réduction des écarts entre dev/test/prod
+🛠 Outils : Ansible, Puppet, Chef
+
+🧩 Conclusion :
+
+Le DevOps repose sur une culture outillée, combinant automatisation, réactivité et qualité logicielle.
+👉 Une bonne maîtrise des outils = un DevOps réussi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonjour à toutes et à tous,
+
+Aujourd’hui, je vais vous présenter les pratiques et outils clés du DevOps, un ensemble de méthodes et de technologies qui permettent de livrer des logiciels plus rapidement, de manière plus fiable et avec une meilleure qualité.
+
+Dans une approche DevOps, l’automatisation, la collaboration entre les équipes, et la surveillance continue sont les piliers de la performance. Voici les pratiques essentielles qui rythment le cycle de vie logiciel dans un environnement DevOps.
+
+🛠️ 1. Intégration Continue (CI) et Livraison Continue (CD)
+Dès qu’un développeur soumet du code, celui-ci est automatiquement intégré et testé via un processus appelé Intégration Continue.
+La Livraison Continue, quant à elle, permet de déployer automatiquement l’application, jusqu’en production.
+👉 Objectif : livrer plus vite et plus souvent, en toute sécurité.
+Outils clés : Jenkins, GitLab CI, CircleCI
+
+⚙️ 2. Infrastructure as Code (IaC)
+Avec l’IaC, on gère l’infrastructure comme du code. Cela signifie que les serveurs, les bases de données, les réseaux sont créés automatiquement, de manière versionnée, reproductible.
+Outils clés : Terraform, AWS CloudFormation, Ansible
+
+📦 3. Conteneurisation & Orchestration
+Les conteneurs, comme ceux créés avec Docker, permettent de faire tourner une application dans n’importe quel environnement, sans surprise.
+L’orchestration, avec Kubernetes ou OpenShift, permet ensuite de gérer des centaines de conteneurs à grande échelle.
+👉 C’est la base de l’agilité et de la portabilité dans DevOps.
+
+✅ 4. Automatisation des Tests et Déploiements
+Chaque modification du code déclenche des tests automatiques : unitaires, d’intégration, fonctionnels.
+Le déploiement est également automatisé pour éviter les erreurs humaines et garantir une qualité constante.
+Outils clés : JUnit, Selenium, SonarQube, ArgoCD
+
+📊 5. Monitoring et Observabilité
+Une fois l’application en ligne, on doit la surveiller en continu : performance, disponibilité, consommation des ressources, etc.
+Cela permet d’être réactif en cas d’incident.
+Outils clés : Prometheus, Grafana, ELK Stack, Datadog
+
+🧩 6. Gestion de la configuration
+Enfin, la configuration automatisée permet de déployer des environnements cohérents, qu’il s’agisse du développement, des tests ou de la production.
+Outils clés : Ansible, Puppet, Chef
+
+🧠 Conclusion
+En résumé, le DevOps s’appuie sur :
+
+L’automatisation (CI/CD, tests, déploiements)
+
+La portabilité (via les conteneurs)
+
+La robustesse et la qualité (tests, surveillance)
+
+Et la cohérence (avec la gestion de configuration)
+
+👉 Maîtriser ces pratiques et outils, c’est garantir des livraisons rapides, fiables et alignées avec les besoins métier.
+
+Merci de votre attention !

@@ -1,0 +1,33 @@
+I. Introduction
+	1. Définition du DevOps
+	Le terme DevOps est la contraction de deux mots anglais :
+		Dev pour Development (développement ) : désigne toutes les activités liées à la conception, l’écriture, les tests et l’amélioration du code logiciel.
+		Ops pour Operations (opérations ou exploitation ) : englobe toutes les activités liées au déploiement, à la gestion des infrastructures, à la supervision, à la 		sécurité, et au maintien en conditions opérationnelles des applications.
+
+	DevOps est une approche collaborative qui vise à fédérer les équipes de développement logiciel (Dev) et d’exploitation (Ops). Pour accélérer la livraison et améliorer la 	qualité des logiciels, DevOps s’appuie sur un ensemble de pratiques, de principes culturels et d’outils permettant d’automatiser et d’optimiser l’ensemble du cycle de vie 	des applications, de la conception à la mise en production.
+
+	2. Contexte et origine 
+	Le mouvement DevOps est apparu à la fin des années 2000, en réaction aux limites du modèle traditionnel qui séparait strictement développeurs et opérationnels. Cette 	séparation entraînait des retards conséquents, des erreurs lors des déploiements et une faible réactivité face aux évolutions du marché. Inspiré par les méthodes agiles et 	les pratiques industrielles telles que le Lean et l’automatisation, DevOps vise à renforcer la collaboration et à accélérer l’innovation.
+
+	3. Objectifs principaux
+	Ainsi, DevOps poursuit trois grands objectifs :
+		Accélérer la mise en œuvre et l’intégration de nouvelles fonctionnalités,
+		Améliorer la qualité du logiciel par l’automatisation des tests,
+		Renforcer la collaboration entre développement et exploitation pour une efficacité optimale.
+
+	Pour illustrer, les "Dev" construisent la voiture, tandis que les "Ops" entretiennent la route et s’assurent que la voiture roule sans difficulté.
+
+
+II. La culture DevOps (Anta)
+
+III. Le cycle de vie DevOps (Imame)
+
+IV. Pratiques et outils clés (Fickou)
+
+V. Avantages et limites (Mariem)
+
+VI. Exemples concrets (Mouhamadou)
+	Cas d’entreprises comme Netflix, Amazon, Etsy
+	Illustration dans des secteurs variés (tech, commerce, santé)
+
+VII. Conclusion

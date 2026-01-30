@@ -1,0 +1,22 @@
+Critères d'un logiciel:
+	1. Performence
+	2. Sécurité
+	3. Maintenabilité
+	4. ergonomie
+	5. robustesse
+	6. Portabilité
+	7. Utilité
+
+Activités du développement logiciel
+	Analyse des besoins, Spécification, Conception, Programmation, Validation et Vérification, 	Livraison, Maintenance
+
+Exposer : 
+	1. Les éléments essetiels du modèle
+
+Model Agile
+venu pour répondre aux approches traditionnelles
+Le manifeste agile repose sur 4 valeurs:
+	Personnes et interractions
+	un produit opérationnel
+	Collaboration avec les clients
+	Adaptation les cliients

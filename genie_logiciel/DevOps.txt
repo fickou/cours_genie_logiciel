@@ -1,0 +1,106 @@
+Plan d’exposé sur le DevOps
+1. Introduction
+	Définition du DevOps
+	Contexte et origine du mouvement
+	Objectifs principaux
+
+2. La culture DevOps (Anta)
+
+3. Le cycle de vie DevOps : les grandes étapes (Imame)
+
+4. Pratiques et outils clés (Fickou)
+
+5. Avantages et limites (Mariem)
+
+6. Exemples concrets (Mouhamadou)
+Cas d’entreprises comme Netflix, Amazon, Etsy
+
+Illustration dans des secteurs variés (tech, commerce, santé)
+
+7. Conclusion
+
+
+
+
+
+
+
+
+
+
+
+1. Présentation générale : 
+
+Définition
+Le terme DevOps est la contraction de deux mots anglais :
+	Dev pour Development (développement ) : désigne toutes les activités liées à la conception, l’écriture, les tests et l’amélioration du code logiciel.
+	Ops pour Operations (opérations ou exploitation ) : englobe toutes les activités liées au déploiement, à la gestion des infrastructures, à la supervision, à la sécurité, 		et au maintien en conditions opérationnelles des applications.
+
+DevOps est une approche collaborative qui vise à fédérer les équipes de développement logiciel (Dev) et d’exploitation (Ops). Pour accélérer la livraison et améliorer la qualité des logiciels, DevOps s’appuie sur un ensemble de pratiques, de principes culturels et d’outils permettant d’automatiser et d’optimiser l’ensemble du cycle de vie des applications, de la conception à la mise en production.
+
+Origine et contexte
+Le mouvement DevOps est apparu à la fin des années 2000, en réaction aux limites du modèle traditionnel qui séparait strictement développeurs et opérationnels. Cette séparation entraînait des retards conséquents, des erreurs lors des déploiements et une faible réactivité face aux évolutions du marché. Inspiré par les méthodes agiles et les pratiques industrielles telles que le Lean et l’automatisation, DevOps vise à renforcer la collaboration et à accélérer l’innovation.
+
+ Les objectifs
+Ainsi, DevOps poursuit trois grands objectifs :
+	Accélérer la mise en œuvre et l’intégration de nouvelles fonctionnalités,
+	Améliorer la qualité du logiciel par l’automatisation des tests,
+	Renforcer la collaboration entre développement et exploitation pour une efficacité optimale.
+
+Pour illustrer, les "Dev" construisent la voiture, tandis que les « Ops » entretiennent la route et s’assurent que la voiture roule sans difficulté.
+
+
+
+
+
+
+
+Le DevOps est une philosophie culturelle, un ensemble de pratiques et d’outils visant à automatiser et intégrer les processus entre les équipes de développement logiciel (Dev) et les opérations informatiques (Ops) afin d'améliorer la qualité des logiciels et d'accélérer leur déploiement. Ce mouvement est né vers 2007 pour répondre aux limites du modèle traditionnel où développeurs et équipes opérationnelles travaillaient en silos, ce qui ralentissait la livraison des applications
+
+
+Dans un modèle DevOps, les équipes de développement, opérations, qualité et parfois sécurité (DevSecOps) collaborent tout au long du cycle de vie des applications, de la conception au déploiement et à la maintenance, en adoptant des pratiques comme l’intégration continue (CI) et la livraison continue (CD). Cette collaboration transversale remplace les cloisonnements, favorise l’automatisation des tâches répétitives et améliore la réactivité face aux besoins clients et aux évolutions du marché
+
+Les principaux bénéfices du DevOps incluent :
+
+Accélération du délai de mise sur le marché grâce à des cycles de développement et déploiement plus rapides.
+
+Amélioration de la qualité et de la fiabilité des logiciels par des tests continus et une meilleure collaboration.
+
+Adaptabilité accrue aux changements du marché et aux demandes clients.
+
+Réduction des risques et du temps de récupération en cas d’incidents.
+
+Meilleure intégration avec les environnements cloud permettant une gestion flexible des ressources et des déploiements dynamiques.
+
+DevOps est une approche intégrée qui combine culture, processus et technologies pour rendre le développement logiciel plus agile, collaboratif et efficace, tout en assurant une meilleure qualité et une livraison continue des produits.
+
+
+Pratiques clés du DevOps :
+
+Développement Agile : Favorise la collaboration, l’adaptabilité et des cycles de publication courts (Scrum, Kanban).
+
+Intégration continue (CI) et livraison continue (CD) : Automatisation des tests et des déploiements pour garantir des mises à jour fréquentes et fiables.
+
+Infrastructure as Code (IaC) : Gestion et provisionnement de l’infrastructure via du code pour automatiser et versionner l’environnement.
+
+Gestion de la configuration : Automatisation de l’installation, la configuration et la maintenance des systèmes et applications.
+
+Orchestration et gestion des conteneurs : Déploiement, gestion et scalabilité des applications conteneurisées.
+
+Surveillance et observabilité : Suivi en temps réel des performances, détection proactive des incidents et analyse des logs.
+
+Feedback continu : Collecte et intégration des retours pour améliorer en permanence les processus et produits.
+
+
+Outils DevOps incontournables :
+
+Domaine	Outils principaux
+Gestion du code source	Git (GitHub, GitLab, Bitbucket)
+Intégration et livraison	Jenkins, GitLab CI/CD, CircleCI
+Gestion de la configuration	Ansible, Puppet, Chef
+Infrastructure as Code	Terraform, AWS CloudFormation
+Conteneurisation	Docker
+Orchestration de conteneurs	Kubernetes
+Surveillance & observabilité	Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic, PagerDuty
+Gestion de projet & suivi	Jira
+Qualité & sécurité du code	SonarQube
